@@ -1,5 +1,5 @@
 ######################################################
-#      Preprocessing code for 2020 Hackathon
+#      Preprocessing code for ML Hackathon
 #         Introduction to Machine Learning
 #                   GitHub Task
 #
